@@ -1,5 +1,5 @@
 <div class="edmStats index sms">
-	<div class="min-height">
+	<div class="min-height">hahaha
 		<div class="title"><small><?php echo __('Campaign'); ?>:</small> <?php echo $this->Text->truncate(h($campaign['Campaign']['name']), 75, array('exact' => false)); ?>
 			<div class="total"><?php echo __('Not Subscribed: %s', number_format($total_sms_stats)); ?></div>
 		</div>
