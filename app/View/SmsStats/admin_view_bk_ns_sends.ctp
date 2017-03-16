@@ -29,7 +29,7 @@
 					<th width="200" class="text-center"><?php echo __('Member ID');?></th>
 					<?php
 					}
-					?>damn
+					?>
 					<?php
 					if ($allow_duplicate) {
 					?>
