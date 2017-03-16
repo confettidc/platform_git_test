@@ -19,7 +19,7 @@
 			<fieldset>
 				<?php echo $this->element('admin/sms_stat_filter_form'); ?>
 			</fieldset>
-		</div>adfa
+		</div>
 		<table cellpadding="0" cellspacing="0" class="popup-table table table-striped">
 			<thead>
 				<tr>
@@ -29,7 +29,7 @@
 					<th width="200" class="text-center"><?php echo __('Member ID');?></th>
 					<?php
 					}
-					?>sdgfdg
+					?>
 					<?php
 					if ($allow_duplicate) {
 					?>

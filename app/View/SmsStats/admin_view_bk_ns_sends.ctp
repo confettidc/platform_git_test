@@ -25,7 +25,7 @@
 				<tr>
 					<?php
 					if ($globalconf['GL.useMemberId'] == 1) {
-					?>hahaha
+					?>
 					<th width="200" class="text-center"><?php echo __('Member ID');?></th>
 					<?php
 					}
